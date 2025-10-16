@@ -1,9 +1,3 @@
-# Loan-Eligibility-Prediction
-To build an end-to-end machine learning model that accurately predicts loan approval outcomes using structured applicant data.
-Here’s a **professional GitHub README write-up** for your project — **Loan Eligibility Prediction Using Machine Learning** — written in a clean, ATS-friendly, and visually structured way that impresses recruiters and tech reviewers 👇
-
----
-
 # 🏦 Loan Eligibility Prediction Using Machine Learning
 
 ### 📊 Overview
