@@ -128,24 +128,3 @@ Loan_Eligibility_Prediction/
 📩 [aminuabdulrasheed055@gmail.com](mailto:aminuabdulrasheed055@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com) | [Portfolio](#) | [YouTube](#)
 
----
-
-## 💬 **Reflection**
-
-This project deepened my understanding of:
-
-* Feature engineering
-* Model evaluation metrics
-* The importance of data preprocessing in predictive analytics
-
-It was an exciting journey blending **data science and finance** to create an interpretable, impact-driven solution.
-
----
-
-## 🏷️ **Tags**
-
-`#DataScience` `#MachineLearning` `#Python` `#FinanceAnalytics` `#LoanPrediction` `#Kaggle` `#Internship`
-
----
-
-Would you like me to make a **short, visually formatted GitHub project description (just 5–6 lines)** for your repo’s front page too — the one that appears **above the file list** (for maximum recruiter impact)?
